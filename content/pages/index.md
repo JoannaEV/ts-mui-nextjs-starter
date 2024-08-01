@@ -5,10 +5,8 @@ sections:
   - type: HeroSection
     title: Joanna V
     subtitle: HERE ARE MY PROJECTS OMG
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: |
+      SUPER COOl projects im so cool everyone wants to hire me
     actions:
       - type: Button
         label: Start Building
