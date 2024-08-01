@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Joanna V
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: HERE ARE MY PROJECTS OMG
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
